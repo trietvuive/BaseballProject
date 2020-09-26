@@ -1,0 +1,2 @@
+Team                    Win     Lost   
+Cincinnati Reds         5       9      Miami Marlins           5       9      Philadelphia Phillies   7       7      Pittsburgh Pirates      5       9      Los Angeles Angels      6       8      New York Yankees        12      2      Arizona Diamondbacks    8       6      Seattle Mariners        8       6      

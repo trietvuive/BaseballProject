@@ -1,0 +1,33 @@
+Murica bracket
+Los Angeles Dodgers  74   10
+New York Mets  54   30
+San Diego Padres  50   34
+Los Angeles Angels  47   37
+Cincinnati Reds  46   39
+Boston Red Sox  42   42
+Oakland Athletics  42   42
+Miami Marlins  42   42
+Washington Nationals  21   63
+Philadelphia Phillies  25   59
+Tampa Bay Rays  32   52
+St. Louis Cardinals  36   48
+Atlanta Braves  36   48
+Minnesota Twins  37   47
+Kansas City Royals  39   45
+
+National bracket
+Milwaukee Brewers  64   20
+Arizona Diamondbacks  58   27
+Colorado Rockies  57   27
+San Francisco Giants  50   34
+New York Yankees  48   36
+Detroit Tigers  43   41
+Seattle Mariners  43   41
+Cleveland Indians  41   43
+Chicago Cubs  25   59
+Houston Astros  25   59
+Pittsburgh Pirates  33   51
+Toronto Blue Jays  36   48
+Texas Rangers  38   46
+Chicago White Sox  38   46
+Baltimore Orioles  39   45

@@ -1,0 +1,14 @@
+Team                  Round 1               Round 2               Round 3               Round 4               Round 5              
+
+Toronto Blue Jays     Colorado Rockies      San Francisco Giants  Washington Nationals  Detroit Tigers        Boston Red Sox       
+
+Washington Nationals  Detroit Tigers        Colorado Rockies      Toronto Blue Jays     Boston Red Sox        San Francisco Giants 
+
+Detroit Tigers        Washington Nationals  Boston Red Sox        San Francisco Giants  Toronto Blue Jays     Colorado Rockies     
+
+San Francisco Giants  Boston Red Sox        Toronto Blue Jays     Detroit Tigers        Colorado Rockies      Washington Nationals 
+
+Boston Red Sox        San Francisco Giants  Detroit Tigers        Colorado Rockies      Washington Nationals  Toronto Blue Jays    
+
+Colorado Rockies      Toronto Blue Jays     Washington Nationals  Boston Red Sox        San Francisco Giants  Detroit Tigers       
+

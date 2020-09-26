@@ -1,0 +1,20 @@
+Day  Match schedule 
+1    Los Angeles Angels @ Pittsburgh Pirates     Miami Marlins @ Philadelphia Phillies      
+2    Pittsburgh Pirates @ Cincinnati Reds        Philadelphia Phillies @ Seattle Mariners    Miami Marlins @ Arizona Diamondbacks        Los Angeles Angels @ New York Yankees      
+3    Pittsburgh Pirates @ New York Yankees       Seattle Mariners @ Arizona Diamondbacks    
+4    Cincinnati Reds @ New York Yankees          Los Angeles Angels @ Arizona Diamondbacks  
+5    Miami Marlins @ Cincinnati Reds             Los Angeles Angels @ Philadelphia Phillies  New York Yankees @ Pittsburgh Pirates       Arizona Diamondbacks @ Seattle Mariners    
+6    Pittsburgh Pirates @ Los Angeles Angels     Philadelphia Phillies @ Miami Marlins      
+7    Seattle Mariners @ Cincinnati Reds          Pittsburgh Pirates @ Arizona Diamondbacks   Philadelphia Phillies @ New York Yankees    Miami Marlins @ Los Angeles Angels         
+8    Arizona Diamondbacks @ Miami Marlins        New York Yankees @ Los Angeles Angels      
+9    Cincinnati Reds @ Seattle Mariners          Arizona Diamondbacks @ Pittsburgh Pirates   New York Yankees @ Philadelphia Phillies    Los Angeles Angels @ Miami Marlins         
+10   New York Yankees @ Cincinnati Reds          Arizona Diamondbacks @ Los Angeles Angels   Seattle Mariners @ Miami Marlins            Pittsburgh Pirates @ Philadelphia Phillies 
+11   Cincinnati Reds @ Arizona Diamondbacks      New York Yankees @ Seattle Mariners        
+12   Cincinnati Reds @ Los Angeles Angels        Miami Marlins @ New York Yankees            Philadelphia Phillies @ Arizona Diamondbacks Pittsburgh Pirates @ Seattle Mariners      
+13   Philadelphia Phillies @ Cincinnati Reds     Miami Marlins @ Pittsburgh Pirates          Los Angeles Angels @ Seattle Mariners       New York Yankees @ Arizona Diamondbacks    
+14   Cincinnati Reds @ Pittsburgh Pirates        Seattle Mariners @ Philadelphia Phillies   
+15   Cincinnati Reds @ Miami Marlins             Philadelphia Phillies @ Los Angeles Angels 
+16   Los Angeles Angels @ Cincinnati Reds        New York Yankees @ Miami Marlins            Arizona Diamondbacks @ Philadelphia Phillies Seattle Mariners @ Pittsburgh Pirates      
+17   Miami Marlins @ Seattle Mariners            Philadelphia Phillies @ Pittsburgh Pirates 
+18   Cincinnati Reds @ Philadelphia Phillies     Pittsburgh Pirates @ Miami Marlins          Seattle Mariners @ Los Angeles Angels       Arizona Diamondbacks @ New York Yankees    
+19   Arizona Diamondbacks @ Cincinnati Reds      Seattle Mariners @ New York Yankees        

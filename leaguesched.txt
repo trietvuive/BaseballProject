@@ -1,0 +1,1289 @@
+Day 1   @ Arizona Diamondbacks 0 - Cleveland Indians 7
+        @ Baltimore Orioles - Texas Rangers
+        @ Colorado Rockies - Oakland Athletics
+        @ Los Angeles Dodgers - Atlanta Braves
+        @ Miami Marlins - Kansas City Royals
+        @ Minnesota Twins - Detroit Tigers
+        @ New York Yankees - Chicago Cubs
+        @ Philadelphia Phillies - Los Angeles Angels
+        @ Pittsburgh Pirates - San Francisco Giants
+        @ Seattle Mariners - Boston Red Sox
+        @ St. Louis Cardinals - Milwaukee Brewers
+        @ Tampa Bay Rays - Cincinnati Reds
+        @ Toronto Blue Jays - Houston Astros
+        @ Washington Nationals - Chicago White Sox
+Day 2   @ Arizona Diamondbacks - Cleveland Indians
+        @ Baltimore Orioles - Texas Rangers
+        @ Colorado Rockies - Oakland Athletics
+        @ Los Angeles Dodgers - Atlanta Braves
+        @ Miami Marlins - Kansas City Royals
+        @ Minnesota Twins - Detroit Tigers
+        @ New York Yankees - Chicago Cubs
+        @ Philadelphia Phillies - Los Angeles Angels
+        @ Pittsburgh Pirates - San Francisco Giants
+        @ Seattle Mariners - Boston Red Sox
+        @ St. Louis Cardinals - Milwaukee Brewers
+        @ Tampa Bay Rays - Cincinnati Reds
+        @ Toronto Blue Jays - Houston Astros
+        @ Washington Nationals - Chicago White Sox
+Day 3   @ Arizona Diamondbacks - Cleveland Indians
+        @ Baltimore Orioles - Texas Rangers
+        @ Colorado Rockies - Oakland Athletics
+        @ Los Angeles Dodgers - Atlanta Braves
+        @ Miami Marlins - Kansas City Royals
+        @ Minnesota Twins - Detroit Tigers
+        @ New York Yankees - Chicago Cubs
+        @ Philadelphia Phillies - Los Angeles Angels
+        @ Pittsburgh Pirates - San Francisco Giants
+        @ Seattle Mariners - Boston Red Sox
+        @ St. Louis Cardinals - Milwaukee Brewers
+        @ Tampa Bay Rays - Cincinnati Reds
+        @ Toronto Blue Jays - Houston Astros
+        @ Washington Nationals - Chicago White Sox
+Day 4   no match for today
+Day 5   @ Arizona Diamondbacks - Houston Astros
+        @ Baltimore Orioles - Cleveland Indians
+        @ Detroit Tigers - Boston Red Sox
+        @ Kansas City Royals - Chicago Cubs
+        @ Miami Marlins - Tampa Bay Rays
+        @ Milwaukee Brewers - Cincinnati Reds
+        @ Minnesota Twins - Texas Rangers
+        @ New York Mets - Toronto Blue Jays
+        @ Philadelphia Phillies - Chicago White Sox
+        @ Pittsburgh Pirates - New York Yankees
+        @ San Diego Padres - Los Angeles Dodgers
+        @ San Francisco Giants - Oakland Athletics
+        @ Seattle Mariners - Los Angeles Angels
+        @ St. Louis Cardinals - Atlanta Braves
+Day 6   @ Arizona Diamondbacks - Houston Astros
+        @ Baltimore Orioles - Cleveland Indians
+        @ Detroit Tigers - Boston Red Sox
+        @ Kansas City Royals - Chicago Cubs
+        @ Miami Marlins - Tampa Bay Rays
+        @ Milwaukee Brewers - Cincinnati Reds
+        @ Minnesota Twins - Texas Rangers
+        @ New York Mets - Toronto Blue Jays
+        @ Philadelphia Phillies - Chicago White Sox
+        @ Pittsburgh Pirates - New York Yankees
+        @ San Diego Padres - Los Angeles Dodgers
+        @ San Francisco Giants - Oakland Athletics
+        @ Seattle Mariners - Los Angeles Angels
+        @ St. Louis Cardinals - Atlanta Braves
+Day 7   @ Arizona Diamondbacks - Houston Astros
+        @ Baltimore Orioles - Cleveland Indians
+        @ Detroit Tigers - Boston Red Sox
+        @ Kansas City Royals - Chicago Cubs
+        @ Miami Marlins - Tampa Bay Rays
+        @ Milwaukee Brewers - Cincinnati Reds
+        @ Minnesota Twins - Texas Rangers
+        @ New York Mets - Toronto Blue Jays
+        @ Philadelphia Phillies - Chicago White Sox
+        @ Pittsburgh Pirates - New York Yankees
+        @ San Diego Padres - Los Angeles Dodgers
+        @ San Francisco Giants - Oakland Athletics
+        @ Seattle Mariners - Los Angeles Angels
+        @ St. Louis Cardinals - Atlanta Braves
+Day 8   no match for today
+Day 9   @ Atlanta Braves - Miami Marlins
+        @ Baltimore Orioles - Chicago White Sox
+        @ Boston Red Sox - New York Mets
+        @ Chicago Cubs - Milwaukee Brewers
+        @ Cincinnati Reds - St. Louis Cardinals
+        @ Colorado Rockies - Los Angeles Dodgers
+        @ Detroit Tigers - Texas Rangers
+        @ Minnesota Twins - Los Angeles Angels
+        @ Oakland Athletics - Kansas City Royals
+        @ Philadelphia Phillies - Houston Astros
+        @ San Diego Padres - San Francisco Giants
+        @ Seattle Mariners - Cleveland Indians
+        @ Tampa Bay Rays - Pittsburgh Pirates
+        @ Washington Nationals - Toronto Blue Jays
+Day 10  @ Atlanta Braves - Miami Marlins
+        @ Baltimore Orioles - Chicago White Sox
+        @ Boston Red Sox - New York Mets
+        @ Chicago Cubs - Milwaukee Brewers
+        @ Cincinnati Reds - St. Louis Cardinals
+        @ Colorado Rockies - Los Angeles Dodgers
+        @ Detroit Tigers - Texas Rangers
+        @ Minnesota Twins - Los Angeles Angels
+        @ Oakland Athletics - Kansas City Royals
+        @ Philadelphia Phillies - Houston Astros
+        @ San Diego Padres - San Francisco Giants
+        @ Seattle Mariners - Cleveland Indians
+        @ Tampa Bay Rays - Pittsburgh Pirates
+        @ Washington Nationals - Toronto Blue Jays
+Day 11  @ Atlanta Braves - Miami Marlins
+        @ Baltimore Orioles - Chicago White Sox
+        @ Boston Red Sox - New York Mets
+        @ Chicago Cubs - Milwaukee Brewers
+        @ Cincinnati Reds - St. Louis Cardinals
+        @ Colorado Rockies - Los Angeles Dodgers
+        @ Detroit Tigers - Texas Rangers
+        @ Minnesota Twins - Los Angeles Angels
+        @ Oakland Athletics - Kansas City Royals
+        @ Philadelphia Phillies - Houston Astros
+        @ San Diego Padres - San Francisco Giants
+        @ Seattle Mariners - Cleveland Indians
+        @ Tampa Bay Rays - Pittsburgh Pirates
+        @ Washington Nationals - Toronto Blue Jays
+Day 12  no match for today
+Day 13  @ Arizona Diamondbacks - Chicago White Sox
+        @ Atlanta Braves - St. Louis Cardinals
+        @ Baltimore Orioles - Los Angeles Angels
+        @ Chicago Cubs - Kansas City Royals
+        @ Cincinnati Reds - Milwaukee Brewers
+        @ Detroit Tigers - New York Mets
+        @ Los Angeles Dodgers - San Diego Padres
+        @ Minnesota Twins - Boston Red Sox
+        @ New York Yankees - Pittsburgh Pirates
+        @ Oakland Athletics - San Francisco Giants
+        @ Philadelphia Phillies - Cleveland Indians
+        @ Seattle Mariners - Texas Rangers
+        @ Tampa Bay Rays - Miami Marlins
+        @ Washington Nationals - Houston Astros
+Day 14  @ Arizona Diamondbacks - Chicago White Sox
+        @ Atlanta Braves - St. Louis Cardinals
+        @ Baltimore Orioles - Los Angeles Angels
+        @ Chicago Cubs - Kansas City Royals
+        @ Cincinnati Reds - Milwaukee Brewers
+        @ Detroit Tigers - New York Mets
+        @ Los Angeles Dodgers - San Diego Padres
+        @ Minnesota Twins - Boston Red Sox
+        @ New York Yankees - Pittsburgh Pirates
+        @ Oakland Athletics - San Francisco Giants
+        @ Philadelphia Phillies - Cleveland Indians
+        @ Seattle Mariners - Texas Rangers
+        @ Tampa Bay Rays - Miami Marlins
+        @ Washington Nationals - Houston Astros
+Day 15  @ Arizona Diamondbacks - Chicago White Sox
+        @ Atlanta Braves - St. Louis Cardinals
+        @ Baltimore Orioles - Los Angeles Angels
+        @ Chicago Cubs - Kansas City Royals
+        @ Cincinnati Reds - Milwaukee Brewers
+        @ Detroit Tigers - New York Mets
+        @ Los Angeles Dodgers - San Diego Padres
+        @ Minnesota Twins - Boston Red Sox
+        @ New York Yankees - Pittsburgh Pirates
+        @ Oakland Athletics - San Francisco Giants
+        @ Philadelphia Phillies - Cleveland Indians
+        @ Seattle Mariners - Texas Rangers
+        @ Tampa Bay Rays - Miami Marlins
+        @ Washington Nationals - Houston Astros
+Day 16  no match for today
+Day 17  @ Arizona Diamondbacks - Boston Red Sox
+        @ Atlanta Braves - Pittsburgh Pirates
+        @ Baltimore Orioles - Minnesota Twins
+        @ Chicago Cubs - St. Louis Cardinals
+        @ Cincinnati Reds - Miami Marlins
+        @ Houston Astros - Chicago White Sox
+        @ Los Angeles Dodgers - San Francisco Giants
+        @ New York Yankees - Colorado Rockies
+        @ Oakland Athletics - Milwaukee Brewers
+        @ Philadelphia Phillies - Detroit Tigers
+        @ San Diego Padres - Kansas City Royals
+        @ Seattle Mariners - New York Mets
+        @ Toronto Blue Jays - Los Angeles Angels
+        @ Washington Nationals - Texas Rangers
+Day 18  @ Arizona Diamondbacks - Boston Red Sox
+        @ Atlanta Braves - Pittsburgh Pirates
+        @ Baltimore Orioles - Minnesota Twins
+        @ Chicago Cubs - St. Louis Cardinals
+        @ Cincinnati Reds - Miami Marlins
+        @ Houston Astros - Chicago White Sox
+        @ Los Angeles Dodgers - San Francisco Giants
+        @ New York Yankees - Colorado Rockies
+        @ Oakland Athletics - Milwaukee Brewers
+        @ Philadelphia Phillies - Detroit Tigers
+        @ San Diego Padres - Kansas City Royals
+        @ Seattle Mariners - New York Mets
+        @ Toronto Blue Jays - Los Angeles Angels
+        @ Washington Nationals - Texas Rangers
+Day 19  @ Arizona Diamondbacks - Boston Red Sox
+        @ Atlanta Braves - Pittsburgh Pirates
+        @ Baltimore Orioles - Minnesota Twins
+        @ Chicago Cubs - St. Louis Cardinals
+        @ Cincinnati Reds - Miami Marlins
+        @ Houston Astros - Chicago White Sox
+        @ Los Angeles Dodgers - San Francisco Giants
+        @ New York Yankees - Colorado Rockies
+        @ Oakland Athletics - Milwaukee Brewers
+        @ Philadelphia Phillies - Detroit Tigers
+        @ San Diego Padres - Kansas City Royals
+        @ Seattle Mariners - New York Mets
+        @ Toronto Blue Jays - Los Angeles Angels
+        @ Washington Nationals - Texas Rangers
+Day 20  no match for today
+Day 21  @ Arizona Diamondbacks - Seattle Mariners
+        @ Chicago Cubs - Miami Marlins
+        @ Chicago White Sox - Los Angeles Angels
+        @ Cincinnati Reds - Pittsburgh Pirates
+        @ Houston Astros - Texas Rangers
+        @ New York Mets - Cleveland Indians
+        @ New York Yankees - Los Angeles Dodgers
+        @ Oakland Athletics - St. Louis Cardinals
+        @ Philadelphia Phillies - Baltimore Orioles
+        @ San Diego Padres - Milwaukee Brewers
+        @ San Francisco Giants - Kansas City Royals
+        @ Tampa Bay Rays - Colorado Rockies
+        @ Toronto Blue Jays - Detroit Tigers
+        @ Washington Nationals - Minnesota Twins
+Day 22  @ Arizona Diamondbacks - Seattle Mariners
+        @ Chicago Cubs - Miami Marlins
+        @ Chicago White Sox - Los Angeles Angels
+        @ Cincinnati Reds - Pittsburgh Pirates
+        @ Houston Astros - Texas Rangers
+        @ New York Mets - Cleveland Indians
+        @ New York Yankees - Los Angeles Dodgers
+        @ Oakland Athletics - St. Louis Cardinals
+        @ Philadelphia Phillies - Baltimore Orioles
+        @ San Diego Padres - Milwaukee Brewers
+        @ San Francisco Giants - Kansas City Royals
+        @ Tampa Bay Rays - Colorado Rockies
+        @ Toronto Blue Jays - Detroit Tigers
+        @ Washington Nationals - Minnesota Twins
+Day 23  @ Arizona Diamondbacks - Seattle Mariners
+        @ Chicago Cubs - Miami Marlins
+        @ Chicago White Sox - Los Angeles Angels
+        @ Cincinnati Reds - Pittsburgh Pirates
+        @ Houston Astros - Texas Rangers
+        @ New York Mets - Cleveland Indians
+        @ New York Yankees - Los Angeles Dodgers
+        @ Oakland Athletics - St. Louis Cardinals
+        @ Philadelphia Phillies - Baltimore Orioles
+        @ San Diego Padres - Milwaukee Brewers
+        @ San Francisco Giants - Kansas City Royals
+        @ Tampa Bay Rays - Colorado Rockies
+        @ Toronto Blue Jays - Detroit Tigers
+        @ Washington Nationals - Minnesota Twins
+Day 24  no match for today
+Day 25  @ Boston Red Sox - Detroit Tigers
+        @ Chicago Cubs - Tampa Bay Rays
+        @ Chicago White Sox - Philadelphia Phillies
+        @ Cincinnati Reds - Atlanta Braves
+        @ Cleveland Indians - Baltimore Orioles
+        @ Houston Astros - Arizona Diamondbacks
+        @ Kansas City Royals - Pittsburgh Pirates
+        @ Los Angeles Angels - Seattle Mariners
+        @ Los Angeles Dodgers - St. Louis Cardinals
+        @ Milwaukee Brewers - Miami Marlins
+        @ Oakland Athletics - New York Yankees
+        @ San Diego Padres - Colorado Rockies
+        @ Texas Rangers - Minnesota Twins
+        @ Toronto Blue Jays - New York Mets
+Day 26  @ Boston Red Sox - Detroit Tigers
+        @ Chicago Cubs - Tampa Bay Rays
+        @ Chicago White Sox - Philadelphia Phillies
+        @ Cincinnati Reds - Atlanta Braves
+        @ Cleveland Indians - Baltimore Orioles
+        @ Houston Astros - Arizona Diamondbacks
+        @ Kansas City Royals - Pittsburgh Pirates
+        @ Los Angeles Angels - Seattle Mariners
+        @ Los Angeles Dodgers - St. Louis Cardinals
+        @ Milwaukee Brewers - Miami Marlins
+        @ Oakland Athletics - New York Yankees
+        @ San Diego Padres - Colorado Rockies
+        @ Texas Rangers - Minnesota Twins
+        @ Toronto Blue Jays - New York Mets
+Day 27  @ Boston Red Sox - Detroit Tigers
+        @ Chicago Cubs - Tampa Bay Rays
+        @ Chicago White Sox - Philadelphia Phillies
+        @ Cincinnati Reds - Atlanta Braves
+        @ Cleveland Indians - Baltimore Orioles
+        @ Houston Astros - Arizona Diamondbacks
+        @ Kansas City Royals - Pittsburgh Pirates
+        @ Los Angeles Angels - Seattle Mariners
+        @ Los Angeles Dodgers - St. Louis Cardinals
+        @ Milwaukee Brewers - Miami Marlins
+        @ Oakland Athletics - New York Yankees
+        @ San Diego Padres - Colorado Rockies
+        @ Texas Rangers - Minnesota Twins
+        @ Toronto Blue Jays - New York Mets
+Day 28  no match for today
+Day 29  @ Chicago Cubs - Cincinnati Reds
+        @ Chicago White Sox - Seattle Mariners
+        @ Cleveland Indians - Minnesota Twins
+        @ Houston Astros - Baltimore Orioles
+        @ Kansas City Royals - Colorado Rockies
+        @ Los Angeles Angels - Detroit Tigers
+        @ Los Angeles Dodgers - Miami Marlins
+        @ Oakland Athletics - Atlanta Braves
+        @ San Diego Padres - Tampa Bay Rays
+        @ San Francisco Giants - New York Yankees
+        @ St. Louis Cardinals - Pittsburgh Pirates
+        @ Texas Rangers - Boston Red Sox
+        @ Toronto Blue Jays - Arizona Diamondbacks
+        @ Washington Nationals - New York Mets
+Day 30  @ Chicago Cubs - Cincinnati Reds
+        @ Chicago White Sox - Seattle Mariners
+        @ Cleveland Indians - Minnesota Twins
+        @ Houston Astros - Baltimore Orioles
+        @ Kansas City Royals - Colorado Rockies
+        @ Los Angeles Angels - Detroit Tigers
+        @ Los Angeles Dodgers - Miami Marlins
+        @ Oakland Athletics - Atlanta Braves
+        @ San Diego Padres - Tampa Bay Rays
+        @ San Francisco Giants - New York Yankees
+        @ St. Louis Cardinals - Pittsburgh Pirates
+        @ Texas Rangers - Boston Red Sox
+        @ Toronto Blue Jays - Arizona Diamondbacks
+        @ Washington Nationals - New York Mets
+Day 31  @ Chicago Cubs - Cincinnati Reds
+        @ Chicago White Sox - Seattle Mariners
+        @ Cleveland Indians - Minnesota Twins
+        @ Houston Astros - Baltimore Orioles
+        @ Kansas City Royals - Colorado Rockies
+        @ Los Angeles Angels - Detroit Tigers
+        @ Los Angeles Dodgers - Miami Marlins
+        @ Oakland Athletics - Atlanta Braves
+        @ San Diego Padres - Tampa Bay Rays
+        @ San Francisco Giants - New York Yankees
+        @ St. Louis Cardinals - Pittsburgh Pirates
+        @ Texas Rangers - Boston Red Sox
+        @ Toronto Blue Jays - Arizona Diamondbacks
+        @ Washington Nationals - New York Mets
+Day 32  no match for today
+Day 33  @ Arizona Diamondbacks - Detroit Tigers
+        @ Atlanta Braves - Tampa Bay Rays
+        @ Baltimore Orioles - Seattle Mariners
+        @ Chicago Cubs - Colorado Rockies
+        @ Cincinnati Reds - New York Yankees
+        @ Houston Astros - Cleveland Indians
+        @ Kansas City Royals - St. Louis Cardinals
+        @ Los Angeles Dodgers - Milwaukee Brewers
+        @ New York Mets - Chicago White Sox
+        @ Philadelphia Phillies - Minnesota Twins
+        @ San Diego Padres - Pittsburgh Pirates
+        @ San Francisco Giants - Miami Marlins
+        @ Toronto Blue Jays - Texas Rangers
+        @ Washington Nationals - Boston Red Sox
+Day 34  @ Arizona Diamondbacks - Detroit Tigers
+        @ Atlanta Braves - Tampa Bay Rays
+        @ Baltimore Orioles - Seattle Mariners
+        @ Chicago Cubs - Colorado Rockies
+        @ Cincinnati Reds - New York Yankees
+        @ Houston Astros - Cleveland Indians
+        @ Kansas City Royals - St. Louis Cardinals
+        @ Los Angeles Dodgers - Milwaukee Brewers
+        @ New York Mets - Chicago White Sox
+        @ Philadelphia Phillies - Minnesota Twins
+        @ San Diego Padres - Pittsburgh Pirates
+        @ San Francisco Giants - Miami Marlins
+        @ Toronto Blue Jays - Texas Rangers
+        @ Washington Nationals - Boston Red Sox
+Day 35  @ Arizona Diamondbacks - Detroit Tigers
+        @ Atlanta Braves - Tampa Bay Rays
+        @ Baltimore Orioles - Seattle Mariners
+        @ Chicago Cubs - Colorado Rockies
+        @ Cincinnati Reds - New York Yankees
+        @ Houston Astros - Cleveland Indians
+        @ Kansas City Royals - St. Louis Cardinals
+        @ Los Angeles Dodgers - Milwaukee Brewers
+        @ New York Mets - Chicago White Sox
+        @ Philadelphia Phillies - Minnesota Twins
+        @ San Diego Padres - Pittsburgh Pirates
+        @ San Francisco Giants - Miami Marlins
+        @ Toronto Blue Jays - Texas Rangers
+        @ Washington Nationals - Boston Red Sox
+Day 36  no match for today
+Day 37  @ Chicago Cubs - Atlanta Braves
+        @ Chicago White Sox - Baltimore Orioles
+        @ Cincinnati Reds - Los Angeles Dodgers
+        @ Cleveland Indians - Seattle Mariners
+        @ Houston Astros - Philadelphia Phillies
+        @ Los Angeles Angels - Minnesota Twins
+        @ Milwaukee Brewers - Pittsburgh Pirates
+        @ New York Mets - Boston Red Sox
+        @ Oakland Athletics - Tampa Bay Rays
+        @ San Diego Padres - New York Yankees
+        @ San Francisco Giants - Colorado Rockies
+        @ St. Louis Cardinals - Miami Marlins
+        @ Texas Rangers - Detroit Tigers
+        @ Toronto Blue Jays - Washington Nationals
+Day 38  @ Chicago Cubs - Atlanta Braves
+        @ Chicago White Sox - Baltimore Orioles
+        @ Cincinnati Reds - Los Angeles Dodgers
+        @ Cleveland Indians - Seattle Mariners
+        @ Houston Astros - Philadelphia Phillies
+        @ Los Angeles Angels - Minnesota Twins
+        @ Milwaukee Brewers - Pittsburgh Pirates
+        @ New York Mets - Boston Red Sox
+        @ Oakland Athletics - Tampa Bay Rays
+        @ San Diego Padres - New York Yankees
+        @ San Francisco Giants - Colorado Rockies
+        @ St. Louis Cardinals - Miami Marlins
+        @ Texas Rangers - Detroit Tigers
+        @ Toronto Blue Jays - Washington Nationals
+Day 39  @ Chicago Cubs - Atlanta Braves
+        @ Chicago White Sox - Baltimore Orioles
+        @ Cincinnati Reds - Los Angeles Dodgers
+        @ Cleveland Indians - Seattle Mariners
+        @ Houston Astros - Philadelphia Phillies
+        @ Los Angeles Angels - Minnesota Twins
+        @ Milwaukee Brewers - Pittsburgh Pirates
+        @ New York Mets - Boston Red Sox
+        @ Oakland Athletics - Tampa Bay Rays
+        @ San Diego Padres - New York Yankees
+        @ San Francisco Giants - Colorado Rockies
+        @ St. Louis Cardinals - Miami Marlins
+        @ Texas Rangers - Detroit Tigers
+        @ Toronto Blue Jays - Washington Nationals
+Day 40  no match for today
+Day 41  @ Atlanta Braves - Kansas City Royals
+        @ Boston Red Sox - Washington Nationals
+        @ Chicago Cubs - San Diego Padres
+        @ Chicago White Sox - New York Mets
+        @ Cincinnati Reds - San Francisco Giants
+        @ Cleveland Indians - Houston Astros
+        @ Colorado Rockies - Miami Marlins
+        @ Detroit Tigers - Arizona Diamondbacks
+        @ Los Angeles Dodgers - Oakland Athletics
+        @ Minnesota Twins - Philadelphia Phillies
+        @ New York Yankees - St. Louis Cardinals
+        @ Seattle Mariners - Baltimore Orioles
+        @ Tampa Bay Rays - Milwaukee Brewers
+        @ Texas Rangers - Toronto Blue Jays
+Day 42  @ Atlanta Braves - Kansas City Royals
+        @ Boston Red Sox - Washington Nationals
+        @ Chicago Cubs - San Diego Padres
+        @ Chicago White Sox - New York Mets
+        @ Cincinnati Reds - San Francisco Giants
+        @ Cleveland Indians - Houston Astros
+        @ Colorado Rockies - Miami Marlins
+        @ Detroit Tigers - Arizona Diamondbacks
+        @ Los Angeles Dodgers - Oakland Athletics
+        @ Minnesota Twins - Philadelphia Phillies
+        @ New York Yankees - St. Louis Cardinals
+        @ Seattle Mariners - Baltimore Orioles
+        @ Tampa Bay Rays - Milwaukee Brewers
+        @ Texas Rangers - Toronto Blue Jays
+Day 43  @ Atlanta Braves - Kansas City Royals
+        @ Boston Red Sox - Washington Nationals
+        @ Chicago Cubs - San Diego Padres
+        @ Chicago White Sox - New York Mets
+        @ Cincinnati Reds - San Francisco Giants
+        @ Cleveland Indians - Houston Astros
+        @ Colorado Rockies - Miami Marlins
+        @ Detroit Tigers - Arizona Diamondbacks
+        @ Los Angeles Dodgers - Oakland Athletics
+        @ Minnesota Twins - Philadelphia Phillies
+        @ New York Yankees - St. Louis Cardinals
+        @ Seattle Mariners - Baltimore Orioles
+        @ Tampa Bay Rays - Milwaukee Brewers
+        @ Texas Rangers - Toronto Blue Jays
+Day 44  no match for today
+Day 45  @ Arizona Diamondbacks - New York Mets
+        @ Atlanta Braves - Cincinnati Reds
+        @ Chicago White Sox - Detroit Tigers
+        @ Cleveland Indians - Boston Red Sox
+        @ Colorado Rockies - San Diego Padres
+        @ Houston Astros - Minnesota Twins
+        @ Los Angeles Angels - Texas Rangers
+        @ Miami Marlins - Milwaukee Brewers
+        @ New York Yankees - Oakland Athletics
+        @ Pittsburgh Pirates - Kansas City Royals
+        @ St. Louis Cardinals - Los Angeles Dodgers
+        @ Tampa Bay Rays - Chicago Cubs
+        @ Toronto Blue Jays - Baltimore Orioles
+        @ Washington Nationals - Philadelphia Phillies
+Day 46  @ Arizona Diamondbacks - New York Mets
+        @ Atlanta Braves - Cincinnati Reds
+        @ Chicago White Sox - Detroit Tigers
+        @ Cleveland Indians - Boston Red Sox
+        @ Colorado Rockies - San Diego Padres
+        @ Houston Astros - Minnesota Twins
+        @ Los Angeles Angels - Texas Rangers
+        @ Miami Marlins - Milwaukee Brewers
+        @ New York Yankees - Oakland Athletics
+        @ Pittsburgh Pirates - Kansas City Royals
+        @ St. Louis Cardinals - Los Angeles Dodgers
+        @ Tampa Bay Rays - Chicago Cubs
+        @ Toronto Blue Jays - Baltimore Orioles
+        @ Washington Nationals - Philadelphia Phillies
+Day 47  @ Arizona Diamondbacks - New York Mets
+        @ Atlanta Braves - Cincinnati Reds
+        @ Chicago White Sox - Detroit Tigers
+        @ Cleveland Indians - Boston Red Sox
+        @ Colorado Rockies - San Diego Padres
+        @ Houston Astros - Minnesota Twins
+        @ Los Angeles Angels - Texas Rangers
+        @ Miami Marlins - Milwaukee Brewers
+        @ New York Yankees - Oakland Athletics
+        @ Pittsburgh Pirates - Kansas City Royals
+        @ St. Louis Cardinals - Los Angeles Dodgers
+        @ Tampa Bay Rays - Chicago Cubs
+        @ Toronto Blue Jays - Baltimore Orioles
+        @ Washington Nationals - Philadelphia Phillies
+Day 48  no match for today
+Day 49  @ Atlanta Braves - Los Angeles Dodgers
+        @ Baltimore Orioles - Arizona Diamondbacks
+        @ Boston Red Sox - Houston Astros
+        @ Chicago Cubs - New York Yankees
+        @ Cincinnati Reds - Tampa Bay Rays
+        @ Kansas City Royals - Miami Marlins
+        @ Los Angeles Angels - Cleveland Indians
+        @ Milwaukee Brewers - St. Louis Cardinals
+        @ Minnesota Twins - Toronto Blue Jays
+        @ New York Mets - Philadelphia Phillies
+        @ Oakland Athletics - Colorado Rockies
+        @ San Francisco Giants - Pittsburgh Pirates
+        @ Seattle Mariners - Washington Nationals
+        @ Texas Rangers - Chicago White Sox
+Day 50  @ Atlanta Braves - Los Angeles Dodgers
+        @ Baltimore Orioles - Arizona Diamondbacks
+        @ Boston Red Sox - Houston Astros
+        @ Chicago Cubs - New York Yankees
+        @ Cincinnati Reds - Tampa Bay Rays
+        @ Kansas City Royals - Miami Marlins
+        @ Los Angeles Angels - Cleveland Indians
+        @ Milwaukee Brewers - St. Louis Cardinals
+        @ Minnesota Twins - Toronto Blue Jays
+        @ New York Mets - Philadelphia Phillies
+        @ Oakland Athletics - Colorado Rockies
+        @ San Francisco Giants - Pittsburgh Pirates
+        @ Seattle Mariners - Washington Nationals
+        @ Texas Rangers - Chicago White Sox
+Day 51  @ Atlanta Braves - Los Angeles Dodgers
+        @ Baltimore Orioles - Arizona Diamondbacks
+        @ Boston Red Sox - Houston Astros
+        @ Chicago Cubs - New York Yankees
+        @ Cincinnati Reds - Tampa Bay Rays
+        @ Kansas City Royals - Miami Marlins
+        @ Los Angeles Angels - Cleveland Indians
+        @ Milwaukee Brewers - St. Louis Cardinals
+        @ Minnesota Twins - Toronto Blue Jays
+        @ New York Mets - Philadelphia Phillies
+        @ Oakland Athletics - Colorado Rockies
+        @ San Francisco Giants - Pittsburgh Pirates
+        @ Seattle Mariners - Washington Nationals
+        @ Texas Rangers - Chicago White Sox
+Day 52  no match for today
+Day 53  @ Arizona Diamondbacks - Philadelphia Phillies
+        @ Chicago White Sox - Boston Red Sox
+        @ Cleveland Indians - Texas Rangers
+        @ Houston Astros - Detroit Tigers
+        @ Kansas City Royals - Atlanta Braves
+        @ Miami Marlins - Colorado Rockies
+        @ Milwaukee Brewers - Tampa Bay Rays
+        @ New York Mets - Los Angeles Angels
+        @ Oakland Athletics - Los Angeles Dodgers
+        @ San Diego Padres - Chicago Cubs
+        @ San Francisco Giants - Cincinnati Reds
+        @ St. Louis Cardinals - New York Yankees
+        @ Toronto Blue Jays - Seattle Mariners
+        @ Washington Nationals - Baltimore Orioles
+Day 54  @ Arizona Diamondbacks - Philadelphia Phillies
+        @ Chicago White Sox - Boston Red Sox
+        @ Cleveland Indians - Texas Rangers
+        @ Houston Astros - Detroit Tigers
+        @ Kansas City Royals - Atlanta Braves
+        @ Miami Marlins - Colorado Rockies
+        @ Milwaukee Brewers - Tampa Bay Rays
+        @ New York Mets - Los Angeles Angels
+        @ Oakland Athletics - Los Angeles Dodgers
+        @ San Diego Padres - Chicago Cubs
+        @ San Francisco Giants - Cincinnati Reds
+        @ St. Louis Cardinals - New York Yankees
+        @ Toronto Blue Jays - Seattle Mariners
+        @ Washington Nationals - Baltimore Orioles
+Day 55  @ Arizona Diamondbacks - Philadelphia Phillies
+        @ Chicago White Sox - Boston Red Sox
+        @ Cleveland Indians - Texas Rangers
+        @ Houston Astros - Detroit Tigers
+        @ Kansas City Royals - Atlanta Braves
+        @ Miami Marlins - Colorado Rockies
+        @ Milwaukee Brewers - Tampa Bay Rays
+        @ New York Mets - Los Angeles Angels
+        @ Oakland Athletics - Los Angeles Dodgers
+        @ San Diego Padres - Chicago Cubs
+        @ San Francisco Giants - Cincinnati Reds
+        @ St. Louis Cardinals - New York Yankees
+        @ Toronto Blue Jays - Seattle Mariners
+        @ Washington Nationals - Baltimore Orioles
+Day 56  no match for today
+Day 57  @ Atlanta Braves - Oakland Athletics
+        @ Boston Red Sox - Seattle Mariners
+        @ Chicago White Sox - Washington Nationals
+        @ Cincinnati Reds - Chicago Cubs
+        @ Cleveland Indians - Arizona Diamondbacks
+        @ Colorado Rockies - Kansas City Royals
+        @ Detroit Tigers - Minnesota Twins
+        @ Houston Astros - Toronto Blue Jays
+        @ Los Angeles Angels - Philadelphia Phillies
+        @ Miami Marlins - Los Angeles Dodgers
+        @ New York Yankees - San Francisco Giants
+        @ Pittsburgh Pirates - St. Louis Cardinals
+        @ Tampa Bay Rays - San Diego Padres
+        @ Texas Rangers - Baltimore Orioles
+Day 58  @ Atlanta Braves - Oakland Athletics
+        @ Boston Red Sox - Seattle Mariners
+        @ Chicago White Sox - Washington Nationals
+        @ Cincinnati Reds - Chicago Cubs
+        @ Cleveland Indians - Arizona Diamondbacks
+        @ Colorado Rockies - Kansas City Royals
+        @ Detroit Tigers - Minnesota Twins
+        @ Houston Astros - Toronto Blue Jays
+        @ Los Angeles Angels - Philadelphia Phillies
+        @ Miami Marlins - Los Angeles Dodgers
+        @ New York Yankees - San Francisco Giants
+        @ Pittsburgh Pirates - St. Louis Cardinals
+        @ Tampa Bay Rays - San Diego Padres
+        @ Texas Rangers - Baltimore Orioles
+Day 59  @ Atlanta Braves - Oakland Athletics
+        @ Boston Red Sox - Seattle Mariners
+        @ Chicago White Sox - Washington Nationals
+        @ Cincinnati Reds - Chicago Cubs
+        @ Cleveland Indians - Arizona Diamondbacks
+        @ Colorado Rockies - Kansas City Royals
+        @ Detroit Tigers - Minnesota Twins
+        @ Houston Astros - Toronto Blue Jays
+        @ Los Angeles Angels - Philadelphia Phillies
+        @ Miami Marlins - Los Angeles Dodgers
+        @ New York Yankees - San Francisco Giants
+        @ Pittsburgh Pirates - St. Louis Cardinals
+        @ Tampa Bay Rays - San Diego Padres
+        @ Texas Rangers - Baltimore Orioles
+Day 60  no match for today
+Day 61  @ Arizona Diamondbacks - Los Angeles Angels
+        @ Atlanta Braves - Chicago Cubs
+        @ Baltimore Orioles - Boston Red Sox
+        @ Colorado Rockies - San Francisco Giants
+        @ Los Angeles Dodgers - Cincinnati Reds
+        @ Miami Marlins - St. Louis Cardinals
+        @ Minnesota Twins - New York Mets
+        @ New York Yankees - San Diego Padres
+        @ Philadelphia Phillies - Texas Rangers
+        @ Pittsburgh Pirates - Milwaukee Brewers
+        @ Seattle Mariners - Detroit Tigers
+        @ Tampa Bay Rays - Oakland Athletics
+        @ Toronto Blue Jays - Chicago White Sox
+        @ Washington Nationals - Cleveland Indians
+Day 62  @ Arizona Diamondbacks - Los Angeles Angels
+        @ Atlanta Braves - Chicago Cubs
+        @ Baltimore Orioles - Boston Red Sox
+        @ Colorado Rockies - San Francisco Giants
+        @ Los Angeles Dodgers - Cincinnati Reds
+        @ Miami Marlins - St. Louis Cardinals
+        @ Minnesota Twins - New York Mets
+        @ New York Yankees - San Diego Padres
+        @ Philadelphia Phillies - Texas Rangers
+        @ Pittsburgh Pirates - Milwaukee Brewers
+        @ Seattle Mariners - Detroit Tigers
+        @ Tampa Bay Rays - Oakland Athletics
+        @ Toronto Blue Jays - Chicago White Sox
+        @ Washington Nationals - Cleveland Indians
+Day 63  @ Arizona Diamondbacks - Los Angeles Angels
+        @ Atlanta Braves - Chicago Cubs
+        @ Baltimore Orioles - Boston Red Sox
+        @ Colorado Rockies - San Francisco Giants
+        @ Los Angeles Dodgers - Cincinnati Reds
+        @ Miami Marlins - St. Louis Cardinals
+        @ Minnesota Twins - New York Mets
+        @ New York Yankees - San Diego Padres
+        @ Philadelphia Phillies - Texas Rangers
+        @ Pittsburgh Pirates - Milwaukee Brewers
+        @ Seattle Mariners - Detroit Tigers
+        @ Tampa Bay Rays - Oakland Athletics
+        @ Toronto Blue Jays - Chicago White Sox
+        @ Washington Nationals - Cleveland Indians
+Day 64  no match for today
+Day 65  @ Arizona Diamondbacks - Texas Rangers
+        @ Baltimore Orioles - Detroit Tigers
+        @ Colorado Rockies - Tampa Bay Rays
+        @ Kansas City Royals - San Francisco Giants
+        @ Los Angeles Dodgers - New York Yankees
+        @ Miami Marlins - Chicago Cubs
+        @ Milwaukee Brewers - San Diego Padres
+        @ New York Mets - Houston Astros
+        @ Philadelphia Phillies - Boston Red Sox
+        @ Pittsburgh Pirates - Cincinnati Reds
+        @ Seattle Mariners - Minnesota Twins
+        @ St. Louis Cardinals - Oakland Athletics
+        @ Toronto Blue Jays - Cleveland Indians
+        @ Washington Nationals - Los Angeles Angels
+Day 66  @ Arizona Diamondbacks - Texas Rangers
+        @ Baltimore Orioles - Detroit Tigers
+        @ Colorado Rockies - Tampa Bay Rays
+        @ Kansas City Royals - San Francisco Giants
+        @ Los Angeles Dodgers - New York Yankees
+        @ Miami Marlins - Chicago Cubs
+        @ Milwaukee Brewers - San Diego Padres
+        @ New York Mets - Houston Astros
+        @ Philadelphia Phillies - Boston Red Sox
+        @ Pittsburgh Pirates - Cincinnati Reds
+        @ Seattle Mariners - Minnesota Twins
+        @ St. Louis Cardinals - Oakland Athletics
+        @ Toronto Blue Jays - Cleveland Indians
+        @ Washington Nationals - Los Angeles Angels
+Day 67  @ Arizona Diamondbacks - Texas Rangers
+        @ Baltimore Orioles - Detroit Tigers
+        @ Colorado Rockies - Tampa Bay Rays
+        @ Kansas City Royals - San Francisco Giants
+        @ Los Angeles Dodgers - New York Yankees
+        @ Miami Marlins - Chicago Cubs
+        @ Milwaukee Brewers - San Diego Padres
+        @ New York Mets - Houston Astros
+        @ Philadelphia Phillies - Boston Red Sox
+        @ Pittsburgh Pirates - Cincinnati Reds
+        @ Seattle Mariners - Minnesota Twins
+        @ St. Louis Cardinals - Oakland Athletics
+        @ Toronto Blue Jays - Cleveland Indians
+        @ Washington Nationals - Los Angeles Angels
+Day 68  no match for today
+Day 69  @ Arizona Diamondbacks - Toronto Blue Jays
+        @ Baltimore Orioles - Houston Astros
+        @ Boston Red Sox - Texas Rangers
+        @ Detroit Tigers - Los Angeles Angels
+        @ Kansas City Royals - Oakland Athletics
+        @ Los Angeles Dodgers - Colorado Rockies
+        @ Miami Marlins - Atlanta Braves
+        @ Milwaukee Brewers - Chicago Cubs
+        @ Minnesota Twins - Cleveland Indians
+        @ New York Mets - Washington Nationals
+        @ Pittsburgh Pirates - Tampa Bay Rays
+        @ San Francisco Giants - San Diego Padres
+        @ Seattle Mariners - Chicago White Sox
+        @ St. Louis Cardinals - Cincinnati Reds
+Day 70  @ Arizona Diamondbacks - Toronto Blue Jays
+        @ Baltimore Orioles - Houston Astros
+        @ Boston Red Sox - Texas Rangers
+        @ Detroit Tigers - Los Angeles Angels
+        @ Kansas City Royals - Oakland Athletics
+        @ Los Angeles Dodgers - Colorado Rockies
+        @ Miami Marlins - Atlanta Braves
+        @ Milwaukee Brewers - Chicago Cubs
+        @ Minnesota Twins - Cleveland Indians
+        @ New York Mets - Washington Nationals
+        @ Pittsburgh Pirates - Tampa Bay Rays
+        @ San Francisco Giants - San Diego Padres
+        @ Seattle Mariners - Chicago White Sox
+        @ St. Louis Cardinals - Cincinnati Reds
+Day 71  @ Arizona Diamondbacks - Toronto Blue Jays
+        @ Baltimore Orioles - Houston Astros
+        @ Boston Red Sox - Texas Rangers
+        @ Detroit Tigers - Los Angeles Angels
+        @ Kansas City Royals - Oakland Athletics
+        @ Los Angeles Dodgers - Colorado Rockies
+        @ Miami Marlins - Atlanta Braves
+        @ Milwaukee Brewers - Chicago Cubs
+        @ Minnesota Twins - Cleveland Indians
+        @ New York Mets - Washington Nationals
+        @ Pittsburgh Pirates - Tampa Bay Rays
+        @ San Francisco Giants - San Diego Padres
+        @ Seattle Mariners - Chicago White Sox
+        @ St. Louis Cardinals - Cincinnati Reds
+Day 72  no match for today
+Day 73  @ Atlanta Braves - Milwaukee Brewers
+        @ Boston Red Sox - Arizona Diamondbacks
+        @ Chicago Cubs - San Francisco Giants
+        @ Chicago White Sox - Houston Astros
+        @ Cincinnati Reds - Kansas City Royals
+        @ Colorado Rockies - Pittsburgh Pirates
+        @ Detroit Tigers - Philadelphia Phillies
+        @ Los Angeles Angels - Toronto Blue Jays
+        @ Minnesota Twins - Baltimore Orioles
+        @ New York Mets - Seattle Mariners
+        @ New York Yankees - Miami Marlins
+        @ Oakland Athletics - San Diego Padres
+        @ Tampa Bay Rays - St. Louis Cardinals
+        @ Texas Rangers - Washington Nationals
+Day 74  @ Atlanta Braves - Milwaukee Brewers
+        @ Boston Red Sox - Arizona Diamondbacks
+        @ Chicago Cubs - San Francisco Giants
+        @ Chicago White Sox - Houston Astros
+        @ Cincinnati Reds - Kansas City Royals
+        @ Colorado Rockies - Pittsburgh Pirates
+        @ Detroit Tigers - Philadelphia Phillies
+        @ Los Angeles Angels - Toronto Blue Jays
+        @ Minnesota Twins - Baltimore Orioles
+        @ New York Mets - Seattle Mariners
+        @ New York Yankees - Miami Marlins
+        @ Oakland Athletics - San Diego Padres
+        @ Tampa Bay Rays - St. Louis Cardinals
+        @ Texas Rangers - Washington Nationals
+Day 75  @ Atlanta Braves - Milwaukee Brewers
+        @ Boston Red Sox - Arizona Diamondbacks
+        @ Chicago Cubs - San Francisco Giants
+        @ Chicago White Sox - Houston Astros
+        @ Cincinnati Reds - Kansas City Royals
+        @ Colorado Rockies - Pittsburgh Pirates
+        @ Detroit Tigers - Philadelphia Phillies
+        @ Los Angeles Angels - Toronto Blue Jays
+        @ Minnesota Twins - Baltimore Orioles
+        @ New York Mets - Seattle Mariners
+        @ New York Yankees - Miami Marlins
+        @ Oakland Athletics - San Diego Padres
+        @ Tampa Bay Rays - St. Louis Cardinals
+        @ Texas Rangers - Washington Nationals
+Day 76  no match for today
+Day 77  @ Arizona Diamondbacks - Baltimore Orioles
+        @ Chicago White Sox - Texas Rangers
+        @ Cleveland Indians - Los Angeles Angels
+        @ Colorado Rockies - New York Yankees
+        @ Houston Astros - Boston Red Sox
+        @ Kansas City Royals - San Diego Padres
+        @ Miami Marlins - Cincinnati Reds
+        @ Milwaukee Brewers - Oakland Athletics
+        @ Philadelphia Phillies - New York Mets
+        @ Pittsburgh Pirates - Atlanta Braves
+        @ San Francisco Giants - Los Angeles Dodgers
+        @ St. Louis Cardinals - Chicago Cubs
+        @ Toronto Blue Jays - Minnesota Twins
+        @ Washington Nationals - Seattle Mariners
+Day 78  @ Arizona Diamondbacks - Baltimore Orioles
+        @ Chicago White Sox - Texas Rangers
+        @ Cleveland Indians - Los Angeles Angels
+        @ Colorado Rockies - New York Yankees
+        @ Houston Astros - Boston Red Sox
+        @ Kansas City Royals - San Diego Padres
+        @ Miami Marlins - Cincinnati Reds
+        @ Milwaukee Brewers - Oakland Athletics
+        @ Philadelphia Phillies - New York Mets
+        @ Pittsburgh Pirates - Atlanta Braves
+        @ San Francisco Giants - Los Angeles Dodgers
+        @ St. Louis Cardinals - Chicago Cubs
+        @ Toronto Blue Jays - Minnesota Twins
+        @ Washington Nationals - Seattle Mariners
+Day 79  @ Arizona Diamondbacks - Baltimore Orioles
+        @ Chicago White Sox - Texas Rangers
+        @ Cleveland Indians - Los Angeles Angels
+        @ Colorado Rockies - New York Yankees
+        @ Houston Astros - Boston Red Sox
+        @ Kansas City Royals - San Diego Padres
+        @ Miami Marlins - Cincinnati Reds
+        @ Milwaukee Brewers - Oakland Athletics
+        @ Philadelphia Phillies - New York Mets
+        @ Pittsburgh Pirates - Atlanta Braves
+        @ San Francisco Giants - Los Angeles Dodgers
+        @ St. Louis Cardinals - Chicago Cubs
+        @ Toronto Blue Jays - Minnesota Twins
+        @ Washington Nationals - Seattle Mariners
+Day 80  no match for today
+Day 81  @ Baltimore Orioles - Toronto Blue Jays
+        @ Boston Red Sox - Cleveland Indians
+        @ Chicago Cubs - Los Angeles Dodgers
+        @ Detroit Tigers - Chicago White Sox
+        @ Kansas City Royals - New York Yankees
+        @ Miami Marlins - Pittsburgh Pirates
+        @ Milwaukee Brewers - Colorado Rockies
+        @ Minnesota Twins - Houston Astros
+        @ New York Mets - Arizona Diamondbacks
+        @ Oakland Athletics - Cincinnati Reds
+        @ Philadelphia Phillies - Washington Nationals
+        @ San Diego Padres - Atlanta Braves
+        @ San Francisco Giants - Tampa Bay Rays
+        @ Texas Rangers - Los Angeles Angels
+Day 82  @ Baltimore Orioles - Toronto Blue Jays
+        @ Boston Red Sox - Cleveland Indians
+        @ Chicago Cubs - Los Angeles Dodgers
+        @ Detroit Tigers - Chicago White Sox
+        @ Kansas City Royals - New York Yankees
+        @ Miami Marlins - Pittsburgh Pirates
+        @ Milwaukee Brewers - Colorado Rockies
+        @ Minnesota Twins - Houston Astros
+        @ New York Mets - Arizona Diamondbacks
+        @ Oakland Athletics - Cincinnati Reds
+        @ Philadelphia Phillies - Washington Nationals
+        @ San Diego Padres - Atlanta Braves
+        @ San Francisco Giants - Tampa Bay Rays
+        @ Texas Rangers - Los Angeles Angels
+Day 83  @ Baltimore Orioles - Toronto Blue Jays
+        @ Boston Red Sox - Cleveland Indians
+        @ Chicago Cubs - Los Angeles Dodgers
+        @ Detroit Tigers - Chicago White Sox
+        @ Kansas City Royals - New York Yankees
+        @ Miami Marlins - Pittsburgh Pirates
+        @ Milwaukee Brewers - Colorado Rockies
+        @ Minnesota Twins - Houston Astros
+        @ New York Mets - Arizona Diamondbacks
+        @ Oakland Athletics - Cincinnati Reds
+        @ Philadelphia Phillies - Washington Nationals
+        @ San Diego Padres - Atlanta Braves
+        @ San Francisco Giants - Tampa Bay Rays
+        @ Texas Rangers - Los Angeles Angels
+Day 84  no match for today
+Day 85  @ Atlanta Braves - New York Yankees
+        @ Baltimore Orioles - Washington Nationals
+        @ Boston Red Sox - Chicago White Sox
+        @ Cincinnati Reds - Colorado Rockies
+        @ Detroit Tigers - Houston Astros
+        @ Kansas City Royals - Milwaukee Brewers
+        @ Los Angeles Angels - New York Mets
+        @ Oakland Athletics - Pittsburgh Pirates
+        @ Philadelphia Phillies - Arizona Diamondbacks
+        @ San Diego Padres - Miami Marlins
+        @ San Francisco Giants - St. Louis Cardinals
+        @ Seattle Mariners - Toronto Blue Jays
+        @ Tampa Bay Rays - Los Angeles Dodgers
+        @ Texas Rangers - Cleveland Indians
+Day 86  @ Atlanta Braves - New York Yankees
+        @ Baltimore Orioles - Washington Nationals
+        @ Boston Red Sox - Chicago White Sox
+        @ Cincinnati Reds - Colorado Rockies
+        @ Detroit Tigers - Houston Astros
+        @ Kansas City Royals - Milwaukee Brewers
+        @ Los Angeles Angels - New York Mets
+        @ Oakland Athletics - Pittsburgh Pirates
+        @ Philadelphia Phillies - Arizona Diamondbacks
+        @ San Diego Padres - Miami Marlins
+        @ San Francisco Giants - St. Louis Cardinals
+        @ Seattle Mariners - Toronto Blue Jays
+        @ Tampa Bay Rays - Los Angeles Dodgers
+        @ Texas Rangers - Cleveland Indians
+Day 87  @ Atlanta Braves - New York Yankees
+        @ Baltimore Orioles - Washington Nationals
+        @ Boston Red Sox - Chicago White Sox
+        @ Cincinnati Reds - Colorado Rockies
+        @ Detroit Tigers - Houston Astros
+        @ Kansas City Royals - Milwaukee Brewers
+        @ Los Angeles Angels - New York Mets
+        @ Oakland Athletics - Pittsburgh Pirates
+        @ Philadelphia Phillies - Arizona Diamondbacks
+        @ San Diego Padres - Miami Marlins
+        @ San Francisco Giants - St. Louis Cardinals
+        @ Seattle Mariners - Toronto Blue Jays
+        @ Tampa Bay Rays - Los Angeles Dodgers
+        @ Texas Rangers - Cleveland Indians
+Day 88  no match for today
+Day 89  @ Arizona Diamondbacks - Washington Nationals
+        @ Atlanta Braves - San Francisco Giants
+        @ Boston Red Sox - Los Angeles Angels
+        @ Chicago Cubs - Oakland Athletics
+        @ Cincinnati Reds - San Diego Padres
+        @ Colorado Rockies - St. Louis Cardinals
+        @ Detroit Tigers - Cleveland Indians
+        @ Minnesota Twins - Chicago White Sox
+        @ New York Yankees - Milwaukee Brewers
+        @ Philadelphia Phillies - Toronto Blue Jays
+        @ Pittsburgh Pirates - Los Angeles Dodgers
+        @ Seattle Mariners - Houston Astros
+        @ Tampa Bay Rays - Kansas City Royals
+        @ Texas Rangers - New York Mets
+Day 90  @ Arizona Diamondbacks - Washington Nationals
+        @ Atlanta Braves - San Francisco Giants
+        @ Boston Red Sox - Los Angeles Angels
+        @ Chicago Cubs - Oakland Athletics
+        @ Cincinnati Reds - San Diego Padres
+        @ Colorado Rockies - St. Louis Cardinals
+        @ Detroit Tigers - Cleveland Indians
+        @ Minnesota Twins - Chicago White Sox
+        @ New York Yankees - Milwaukee Brewers
+        @ Philadelphia Phillies - Toronto Blue Jays
+        @ Pittsburgh Pirates - Los Angeles Dodgers
+        @ Seattle Mariners - Houston Astros
+        @ Tampa Bay Rays - Kansas City Royals
+        @ Texas Rangers - New York Mets
+Day 91  @ Arizona Diamondbacks - Washington Nationals
+        @ Atlanta Braves - San Francisco Giants
+        @ Boston Red Sox - Los Angeles Angels
+        @ Chicago Cubs - Oakland Athletics
+        @ Cincinnati Reds - San Diego Padres
+        @ Colorado Rockies - St. Louis Cardinals
+        @ Detroit Tigers - Cleveland Indians
+        @ Minnesota Twins - Chicago White Sox
+        @ New York Yankees - Milwaukee Brewers
+        @ Philadelphia Phillies - Toronto Blue Jays
+        @ Pittsburgh Pirates - Los Angeles Dodgers
+        @ Seattle Mariners - Houston Astros
+        @ Tampa Bay Rays - Kansas City Royals
+        @ Texas Rangers - New York Mets
+Day 92  no match for today
+Day 93  @ Boston Red Sox - Toronto Blue Jays
+        @ Cleveland Indians - Chicago White Sox
+        @ Detroit Tigers - Washington Nationals
+        @ Kansas City Royals - Cincinnati Reds
+        @ Los Angeles Angels - Houston Astros
+        @ Miami Marlins - New York Yankees
+        @ Milwaukee Brewers - Atlanta Braves
+        @ Minnesota Twins - Arizona Diamondbacks
+        @ New York Mets - Baltimore Orioles
+        @ Pittsburgh Pirates - Colorado Rockies
+        @ San Diego Padres - Oakland Athletics
+        @ San Francisco Giants - Chicago Cubs
+        @ Seattle Mariners - Philadelphia Phillies
+        @ St. Louis Cardinals - Tampa Bay Rays
+Day 94  @ Boston Red Sox - Toronto Blue Jays
+        @ Cleveland Indians - Chicago White Sox
+        @ Detroit Tigers - Washington Nationals
+        @ Kansas City Royals - Cincinnati Reds
+        @ Los Angeles Angels - Houston Astros
+        @ Miami Marlins - New York Yankees
+        @ Milwaukee Brewers - Atlanta Braves
+        @ Minnesota Twins - Arizona Diamondbacks
+        @ New York Mets - Baltimore Orioles
+        @ Pittsburgh Pirates - Colorado Rockies
+        @ San Diego Padres - Oakland Athletics
+        @ San Francisco Giants - Chicago Cubs
+        @ Seattle Mariners - Philadelphia Phillies
+        @ St. Louis Cardinals - Tampa Bay Rays
+Day 95  @ Boston Red Sox - Toronto Blue Jays
+        @ Cleveland Indians - Chicago White Sox
+        @ Detroit Tigers - Washington Nationals
+        @ Kansas City Royals - Cincinnati Reds
+        @ Los Angeles Angels - Houston Astros
+        @ Miami Marlins - New York Yankees
+        @ Milwaukee Brewers - Atlanta Braves
+        @ Minnesota Twins - Arizona Diamondbacks
+        @ New York Mets - Baltimore Orioles
+        @ Pittsburgh Pirates - Colorado Rockies
+        @ San Diego Padres - Oakland Athletics
+        @ San Francisco Giants - Chicago Cubs
+        @ Seattle Mariners - Philadelphia Phillies
+        @ St. Louis Cardinals - Tampa Bay Rays
+Day 96  no match for today
+Day 97  @ Boston Red Sox - Baltimore Orioles
+        @ Chicago White Sox - Toronto Blue Jays
+        @ Cleveland Indians - Washington Nationals
+        @ Detroit Tigers - Seattle Mariners
+        @ Kansas City Royals - Tampa Bay Rays
+        @ Los Angeles Angels - Arizona Diamondbacks
+        @ Los Angeles Dodgers - Pittsburgh Pirates
+        @ Milwaukee Brewers - New York Yankees
+        @ New York Mets - Minnesota Twins
+        @ Oakland Athletics - Chicago Cubs
+        @ San Diego Padres - Cincinnati Reds
+        @ San Francisco Giants - Atlanta Braves
+        @ St. Louis Cardinals - Colorado Rockies
+        @ Texas Rangers - Philadelphia Phillies
+Day 98  @ Boston Red Sox - Baltimore Orioles
+        @ Chicago White Sox - Toronto Blue Jays
+        @ Cleveland Indians - Washington Nationals
+        @ Detroit Tigers - Seattle Mariners
+        @ Kansas City Royals - Tampa Bay Rays
+        @ Los Angeles Angels - Arizona Diamondbacks
+        @ Los Angeles Dodgers - Pittsburgh Pirates
+        @ Milwaukee Brewers - New York Yankees
+        @ New York Mets - Minnesota Twins
+        @ Oakland Athletics - Chicago Cubs
+        @ San Diego Padres - Cincinnati Reds
+        @ San Francisco Giants - Atlanta Braves
+        @ St. Louis Cardinals - Colorado Rockies
+        @ Texas Rangers - Philadelphia Phillies
+Day 99  @ Boston Red Sox - Baltimore Orioles
+        @ Chicago White Sox - Toronto Blue Jays
+        @ Cleveland Indians - Washington Nationals
+        @ Detroit Tigers - Seattle Mariners
+        @ Kansas City Royals - Tampa Bay Rays
+        @ Los Angeles Angels - Arizona Diamondbacks
+        @ Los Angeles Dodgers - Pittsburgh Pirates
+        @ Milwaukee Brewers - New York Yankees
+        @ New York Mets - Minnesota Twins
+        @ Oakland Athletics - Chicago Cubs
+        @ San Diego Padres - Cincinnati Reds
+        @ San Francisco Giants - Atlanta Braves
+        @ St. Louis Cardinals - Colorado Rockies
+        @ Texas Rangers - Philadelphia Phillies
+Day 100 no match for today
+Day 101 @ Arizona Diamondbacks - Minnesota Twins
+        @ Baltimore Orioles - New York Mets
+        @ Chicago White Sox - Cleveland Indians
+        @ Colorado Rockies - Chicago Cubs
+        @ Houston Astros - Los Angeles Angels
+        @ Miami Marlins - San Francisco Giants
+        @ Milwaukee Brewers - Los Angeles Dodgers
+        @ New York Yankees - Cincinnati Reds
+        @ Philadelphia Phillies - Seattle Mariners
+        @ Pittsburgh Pirates - San Diego Padres
+        @ St. Louis Cardinals - Kansas City Royals
+        @ Tampa Bay Rays - Atlanta Braves
+        @ Toronto Blue Jays - Boston Red Sox
+        @ Washington Nationals - Detroit Tigers
+Day 102 @ Arizona Diamondbacks - Minnesota Twins
+        @ Baltimore Orioles - New York Mets
+        @ Chicago White Sox - Cleveland Indians
+        @ Colorado Rockies - Chicago Cubs
+        @ Houston Astros - Los Angeles Angels
+        @ Miami Marlins - San Francisco Giants
+        @ Milwaukee Brewers - Los Angeles Dodgers
+        @ New York Yankees - Cincinnati Reds
+        @ Philadelphia Phillies - Seattle Mariners
+        @ Pittsburgh Pirates - San Diego Padres
+        @ St. Louis Cardinals - Kansas City Royals
+        @ Tampa Bay Rays - Atlanta Braves
+        @ Toronto Blue Jays - Boston Red Sox
+        @ Washington Nationals - Detroit Tigers
+Day 103 @ Arizona Diamondbacks - Minnesota Twins
+        @ Baltimore Orioles - New York Mets
+        @ Chicago White Sox - Cleveland Indians
+        @ Colorado Rockies - Chicago Cubs
+        @ Houston Astros - Los Angeles Angels
+        @ Miami Marlins - San Francisco Giants
+        @ Milwaukee Brewers - Los Angeles Dodgers
+        @ New York Yankees - Cincinnati Reds
+        @ Philadelphia Phillies - Seattle Mariners
+        @ Pittsburgh Pirates - San Diego Padres
+        @ St. Louis Cardinals - Kansas City Royals
+        @ Tampa Bay Rays - Atlanta Braves
+        @ Toronto Blue Jays - Boston Red Sox
+        @ Washington Nationals - Detroit Tigers
+Day 104 no match for today
+Day 105 @ Boston Red Sox - Philadelphia Phillies
+        @ Cleveland Indians - Toronto Blue Jays
+        @ Colorado Rockies - Cincinnati Reds
+        @ Detroit Tigers - Baltimore Orioles
+        @ Houston Astros - New York Mets
+        @ Los Angeles Angels - Washington Nationals
+        @ Los Angeles Dodgers - Tampa Bay Rays
+        @ Miami Marlins - San Diego Padres
+        @ Milwaukee Brewers - Kansas City Royals
+        @ Minnesota Twins - Seattle Mariners
+        @ New York Yankees - Atlanta Braves
+        @ Pittsburgh Pirates - Oakland Athletics
+        @ St. Louis Cardinals - San Francisco Giants
+        @ Texas Rangers - Arizona Diamondbacks
+Day 106 @ Boston Red Sox - Philadelphia Phillies
+        @ Cleveland Indians - Toronto Blue Jays
+        @ Colorado Rockies - Cincinnati Reds
+        @ Detroit Tigers - Baltimore Orioles
+        @ Houston Astros - New York Mets
+        @ Los Angeles Angels - Washington Nationals
+        @ Los Angeles Dodgers - Tampa Bay Rays
+        @ Miami Marlins - San Diego Padres
+        @ Milwaukee Brewers - Kansas City Royals
+        @ Minnesota Twins - Seattle Mariners
+        @ New York Yankees - Atlanta Braves
+        @ Pittsburgh Pirates - Oakland Athletics
+        @ St. Louis Cardinals - San Francisco Giants
+        @ Texas Rangers - Arizona Diamondbacks
+Day 107 @ Boston Red Sox - Philadelphia Phillies
+        @ Cleveland Indians - Toronto Blue Jays
+        @ Colorado Rockies - Cincinnati Reds
+        @ Detroit Tigers - Baltimore Orioles
+        @ Houston Astros - New York Mets
+        @ Los Angeles Angels - Washington Nationals
+        @ Los Angeles Dodgers - Tampa Bay Rays
+        @ Miami Marlins - San Diego Padres
+        @ Milwaukee Brewers - Kansas City Royals
+        @ Minnesota Twins - Seattle Mariners
+        @ New York Yankees - Atlanta Braves
+        @ Pittsburgh Pirates - Oakland Athletics
+        @ St. Louis Cardinals - San Francisco Giants
+        @ Texas Rangers - Arizona Diamondbacks
+Day 108 no match for today
+Day 109 @ Atlanta Braves - San Diego Padres
+        @ Chicago White Sox - Minnesota Twins
+        @ Cincinnati Reds - Oakland Athletics
+        @ Cleveland Indians - Detroit Tigers
+        @ Colorado Rockies - Milwaukee Brewers
+        @ Houston Astros - Seattle Mariners
+        @ Los Angeles Angels - Boston Red Sox
+        @ Los Angeles Dodgers - Chicago Cubs
+        @ New York Mets - Texas Rangers
+        @ New York Yankees - Kansas City Royals
+        @ Pittsburgh Pirates - Miami Marlins
+        @ Tampa Bay Rays - San Francisco Giants
+        @ Toronto Blue Jays - Philadelphia Phillies
+        @ Washington Nationals - Arizona Diamondbacks
+Day 110 @ Atlanta Braves - San Diego Padres
+        @ Chicago White Sox - Minnesota Twins
+        @ Cincinnati Reds - Oakland Athletics
+        @ Cleveland Indians - Detroit Tigers
+        @ Colorado Rockies - Milwaukee Brewers
+        @ Houston Astros - Seattle Mariners
+        @ Los Angeles Angels - Boston Red Sox
+        @ Los Angeles Dodgers - Chicago Cubs
+        @ New York Mets - Texas Rangers
+        @ New York Yankees - Kansas City Royals
+        @ Pittsburgh Pirates - Miami Marlins
+        @ Tampa Bay Rays - San Francisco Giants
+        @ Toronto Blue Jays - Philadelphia Phillies
+        @ Washington Nationals - Arizona Diamondbacks
+Day 111 @ Atlanta Braves - San Diego Padres
+        @ Chicago White Sox - Minnesota Twins
+        @ Cincinnati Reds - Oakland Athletics
+        @ Cleveland Indians - Detroit Tigers
+        @ Colorado Rockies - Milwaukee Brewers
+        @ Houston Astros - Seattle Mariners
+        @ Los Angeles Angels - Boston Red Sox
+        @ Los Angeles Dodgers - Chicago Cubs
+        @ New York Mets - Texas Rangers
+        @ New York Yankees - Kansas City Royals
+        @ Pittsburgh Pirates - Miami Marlins
+        @ Tampa Bay Rays - San Francisco Giants
+        @ Toronto Blue Jays - Philadelphia Phillies
+        @ Washington Nationals - Arizona Diamondbacks
+Day 112 no match for today
+Day 113 @ Atlanta Braves - Colorado Rockies
+        @ Boston Red Sox - Minnesota Twins
+        @ Chicago Cubs - Pittsburgh Pirates
+        @ Chicago White Sox - Arizona Diamondbacks
+        @ Cleveland Indians - Philadelphia Phillies
+        @ Houston Astros - Washington Nationals
+        @ Los Angeles Angels - Baltimore Orioles
+        @ Los Angeles Dodgers - Kansas City Royals
+        @ New York Mets - Detroit Tigers
+        @ Oakland Athletics - Miami Marlins
+        @ San Diego Padres - St. Louis Cardinals
+        @ San Francisco Giants - Milwaukee Brewers
+        @ Tampa Bay Rays - New York Yankees
+        @ Texas Rangers - Seattle Mariners
+Day 114 @ Atlanta Braves - Colorado Rockies
+        @ Boston Red Sox - Minnesota Twins
+        @ Chicago Cubs - Pittsburgh Pirates
+        @ Chicago White Sox - Arizona Diamondbacks
+        @ Cleveland Indians - Philadelphia Phillies
+        @ Houston Astros - Washington Nationals
+        @ Los Angeles Angels - Baltimore Orioles
+        @ Los Angeles Dodgers - Kansas City Royals
+        @ New York Mets - Detroit Tigers
+        @ Oakland Athletics - Miami Marlins
+        @ San Diego Padres - St. Louis Cardinals
+        @ San Francisco Giants - Milwaukee Brewers
+        @ Tampa Bay Rays - New York Yankees
+        @ Texas Rangers - Seattle Mariners
+Day 115 @ Atlanta Braves - Colorado Rockies
+        @ Boston Red Sox - Minnesota Twins
+        @ Chicago Cubs - Pittsburgh Pirates
+        @ Chicago White Sox - Arizona Diamondbacks
+        @ Cleveland Indians - Philadelphia Phillies
+        @ Houston Astros - Washington Nationals
+        @ Los Angeles Angels - Baltimore Orioles
+        @ Los Angeles Dodgers - Kansas City Royals
+        @ New York Mets - Detroit Tigers
+        @ Oakland Athletics - Miami Marlins
+        @ San Diego Padres - St. Louis Cardinals
+        @ San Francisco Giants - Milwaukee Brewers
+        @ Tampa Bay Rays - New York Yankees
+        @ Texas Rangers - Seattle Mariners
+Day 116 no match for today
+Day 117 @ Baltimore Orioles - Philadelphia Phillies
+        @ Cleveland Indians - New York Mets
+        @ Colorado Rockies - Atlanta Braves
+        @ Detroit Tigers - Toronto Blue Jays
+        @ Kansas City Royals - Los Angeles Dodgers
+        @ Los Angeles Angels - Chicago White Sox
+        @ Miami Marlins - Oakland Athletics
+        @ Milwaukee Brewers - San Francisco Giants
+        @ Minnesota Twins - Washington Nationals
+        @ New York Yankees - Tampa Bay Rays
+        @ Pittsburgh Pirates - Chicago Cubs
+        @ Seattle Mariners - Arizona Diamondbacks
+        @ St. Louis Cardinals - San Diego Padres
+        @ Texas Rangers - Houston Astros
+Day 118 @ Baltimore Orioles - Philadelphia Phillies
+        @ Cleveland Indians - New York Mets
+        @ Colorado Rockies - Atlanta Braves
+        @ Detroit Tigers - Toronto Blue Jays
+        @ Kansas City Royals - Los Angeles Dodgers
+        @ Los Angeles Angels - Chicago White Sox
+        @ Miami Marlins - Oakland Athletics
+        @ Milwaukee Brewers - San Francisco Giants
+        @ Minnesota Twins - Washington Nationals
+        @ New York Yankees - Tampa Bay Rays
+        @ Pittsburgh Pirates - Chicago Cubs
+        @ Seattle Mariners - Arizona Diamondbacks
+        @ St. Louis Cardinals - San Diego Padres
+        @ Texas Rangers - Houston Astros
+Day 119 @ Baltimore Orioles - Philadelphia Phillies
+        @ Cleveland Indians - New York Mets
+        @ Colorado Rockies - Atlanta Braves
+        @ Detroit Tigers - Toronto Blue Jays
+        @ Kansas City Royals - Los Angeles Dodgers
+        @ Los Angeles Angels - Chicago White Sox
+        @ Miami Marlins - Oakland Athletics
+        @ Milwaukee Brewers - San Francisco Giants
+        @ Minnesota Twins - Washington Nationals
+        @ New York Yankees - Tampa Bay Rays
+        @ Pittsburgh Pirates - Chicago Cubs
+        @ Seattle Mariners - Arizona Diamondbacks
+        @ St. Louis Cardinals - San Diego Padres
+        @ Texas Rangers - Houston Astros

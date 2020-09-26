@@ -1,0 +1,2 @@
+Team                    Win     Lost   
+Toronto Blue Jays       10      10     San Francisco Giants    7       13     Washington Nationals    8       12     Colorado Rockies        10      10     Boston Red Sox          13      7      Detroit Tigers          12      8      
